@@ -19,4 +19,5 @@ public class AutorizadorInterceptor implements HandlerInterceptor {
 		response.sendRedirect("loginForm");
 		return false;
 	}
+	
 }

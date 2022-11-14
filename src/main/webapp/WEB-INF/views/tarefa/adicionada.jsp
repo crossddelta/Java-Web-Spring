@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Tarefa adicionada</title>
+<link type="text/css" href="/css/tarefas.css" rel="stylesheet" />
 </head>
 <body>
 	Nova tarefa adicionada com sucesso!

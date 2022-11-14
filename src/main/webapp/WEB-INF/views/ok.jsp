@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link type="text/css" href="/css/tarefas.css" rel="stylesheet" />
 <meta charset="UTF-8">
 <title>Spring MVC</title>
 </head>

@@ -11,4 +11,5 @@ public class OlaMundoController {
 		System.out.println("Executando a lógica com Spring MVC");
 		return "ok";
 	}
+	
 }
